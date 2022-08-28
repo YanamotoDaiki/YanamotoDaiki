@@ -1,4 +1,14 @@
-### Hi there 👋
+<title>プロフィール</title>
+<hr> 
+<ul>
+  <li>名前：柳本大輝
+  <li>所属：愛媛大学　工学部　工学科　コンピュータ科学コース
+  <li>研究分野：テキスト平易化
+</ul>
+
+
+
+
 
 <!--
 **YanamotoDaiki/YanamotoDaiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
