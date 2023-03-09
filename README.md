@@ -3,7 +3,7 @@
 - 所属：愛媛大学 工学部 工学科 コンピュータ科学コース [人工知能研究室](https://sites.google.com/view/ehime-nlp/)
 - E-mail：yanamoto@ai.cs.ehime-u.ac.jp
 
-## 研究実績
+## 研究業績
 - Daiki Yanamoto, Tomoki Ikawa, Tomoyuki Kajiwara, Takashi Ninomiya, Satoru Uchida, and Yuki Arase. <br>
   [Controllable Text Simplification with Deep Reinforcement Learning](https://aclanthology.org/2022.aacl-short.49). <br>
   In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP), pages 398–404, pp.398–404, November 2022.
