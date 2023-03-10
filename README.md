@@ -6,7 +6,7 @@
 ## 研究業績
 - Daiki Yanamoto, Tomoki Ikawa, Tomoyuki Kajiwara, Takashi Ninomiya, Satoru Uchida, and Yuki Arase. <br>
   [Controllable Text Simplification with Deep Reinforcement Learning](https://aclanthology.org/2022.aacl-short.49). <br>
-  In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP), pages 398–404, pp.398–404, November 2022.
+  In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP), pp.398–404, November 2022.
 - 柳本大輝, 梶原智之, 二宮崇. <br>
   単語の難易度埋め込みを用いた日本語のテキスト平易化. <br>
   言語処理学会第29回年次大会, pp.1007-1011, March 2023.
