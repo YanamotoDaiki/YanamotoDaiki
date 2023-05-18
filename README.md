@@ -3,6 +3,9 @@
 - 所属：愛媛大学 工学部 工学科 コンピュータ科学コース [人工知能研究室](https://sites.google.com/view/ehime-nlp/)
 - E-mail：yanamoto@ai.cs.ehime-u.ac.jp
 
+## 学位論文
+- 卒業論文：基礎語彙を考慮した日本語のテキスト平易化に関する研究
+
 ## 研究業績
 - Daiki Yanamoto, Tomoki Ikawa, Tomoyuki Kajiwara, Takashi Ninomiya, Satoru Uchida, and Yuki Arase. <br>
   **Controllable Text Simplification with Deep Reinforcement Learning** [[pdf]](https://aclanthology.org/2022.aacl-short.49) <br>
