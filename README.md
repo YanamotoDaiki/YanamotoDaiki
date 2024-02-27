@@ -21,6 +21,10 @@
   In Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP), pp.398–404, November 2022.
 
 ## 受賞
+- NLP若手の会第18回シンポジウム(YANS2023) 第一著者奨励賞
+ > 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, ⻄脇靖紘. <br>
+  **専門家が平易化した記事を用いたやさしい日本語パラレルコーパスの構築** <br>
+  NLP若手の会第18回シンポジウム(YANS2023), S1-P10, August 2023.
 - NLP若手の会第18回シンポジウム(YANS2023) スポンサー賞
   > 宮田莉奈, 惟高日向, 山内洋輝, 柳本大輝, 梶原智之, 二宮崇, ⻄脇靖紘. <br>
   **専門家が平易化した記事を用いたやさしい日本語パラレルコーパスの構築** <br>
